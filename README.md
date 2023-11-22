@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my second repository.
 <br>
-author -  Rachana
+author - Nedunuri Rachana(apnacollege)
